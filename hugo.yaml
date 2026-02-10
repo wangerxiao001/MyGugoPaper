@@ -1,4 +1,6 @@
-baseURL: https://example.org/
+# baseURL: https://example.org/
+# 如果是 hugo.toml 或 config.toml
+baseURL = 'https://wangerxiao001.github.io/MyGugoPaper/'
 languageCode: en-us
 title: Leslie'Planet
 theme: ["PaperMod"]
