@@ -1,7 +1,7 @@
 ---
 date: '2026-02-02T08:05:22+08:00'
 draft: false
-title: "Leslie's planet is comming!"
+title: "Leslie's planet is coming!"
 cover:
     image: img/post1/tnf.jpg
     alt: 'image on Damao Shan TNF2025 55K'
