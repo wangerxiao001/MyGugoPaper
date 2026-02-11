@@ -1,4 +1,4 @@
-/* Custom: reduce post body font size by ~1 level (now increased by user request) */
+/* Custom: reduce post body font size by ~2 levels */
 /* Applies to single post content and post entries */
 
 .post-single .post-content,
@@ -9,7 +9,7 @@
 .post-single .post-content table,
 .post-single .post-content pre,
 .post-single .post-content code {
-  font-size: 1rem; /* ~16px (increased from 0.875rem) */
+  font-size: 0.875rem; /* ~14px */
   line-height: 1.6;
 }
 
@@ -19,35 +19,35 @@
   font-size: 0.85rem;
 }
 
-/* Titles: bump up by one size step (user requested) */
+/* Shrink titles by ~2 levels */
 .post-title {
-  font-size: 1.625rem; /* raised by 0.125rem */
+  font-size: 1.5rem; /* ~24px (was 40px) */
 }
 
-/* Content headings inside posts (each increased by 0.125rem) */
+/* Content headings inside posts */
 .post-single .post-content h1 {
-  font-size: 1.625rem; /* ~26px (was 1.5rem) */
+  font-size: 1.5rem; /* ~24px (was 40px) */
 }
 .post-single .post-content h2 {
-  font-size: 1.25rem; /* ~20px (was 1.125rem) */
+  font-size: 1.125rem; /* ~18px (was 32px) */
 }
 .post-single .post-content h3 {
-  font-size: 1.125rem; /* ~18px (was 1rem) */
+  font-size: 1rem; /* ~16px (was 24px) */
 }
 .post-single .post-content h4 {
-  font-size: 1rem; /* ~16px (was 0.875rem) */
+  font-size: 0.875rem; /* ~14px (was 16px) */
 }
 .post-single .post-content h5 {
-  font-size: 0.9375rem; /* ~15px (was 0.8125rem) */
+  font-size: 0.8125rem; /* ~13px (was 14px) */
 }
 .post-single .post-content h6 {
-  font-size: 0.875rem; /* ~14px (was 0.75rem) */
+  font-size: 0.75rem; /* ~12px (unchanged) */
 }
 
 /* Also adjust list/entry titles to keep visual consistency */
 .post-entry .entry-header h2,
 .archive-entry-title,
 .entry-hint-parent {
-  font-size: 1.375rem;
+  font-size: 1.25rem;
 }
 
