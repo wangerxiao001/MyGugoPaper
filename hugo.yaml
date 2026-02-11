@@ -1,39 +1,30 @@
 # baseURL: https://example.org/
 # 如果是 hugo.toml 或 config.toml
-baseURL = 'https://wangerxiao001.github.io/MyGugoPaper/'
+baseURL: "https://wangerxiao001.github.io/MyGugoPaper/"
 languageCode: en-us
-title: Leslie'Planet
+title: "Leslie's Planet"
 theme: ["PaperMod"]
 
-params: 
+params:
   homeInfoParams:
     Title: "👋 Welcome to Leslie's Planet"
     Content: >
       👋 Hi, this is Xinglie. I’m documenting my notes in this blog since 2026😉.
 
-
-
   socialIcons:
     - name: github
       title: View Source on Github
       url: "https://github.com/wangerxiao001/"
-    # - name: Discord
-    #   title: Join discord community
-    #   url: "https://discord.gg/ahpmTvhVmp"
     - name: instagram
       title: Follow on Instagram
       url: "https://www.instagram.com/"
     - name: X
       title: Share PaperMod on X/Twitter
       url: "https://x.com/"
-    # - name: KoFi
-    #   title: Buy me a Ko-Fi :)
-    #   url: "https://ko-fi.com/adityatelange"
+
   defaultTheme: auto
-  # disableThemeToggle: true
   ShowShareButtons: true
   ShowReadingTime: true
-  # disableSpecial1stPost: true
   displayFullLangName: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
