@@ -1,3 +1,53 @@
+# baseURL: "https://wangerxiao001.github.io/MyGugoPaper/"
+# # relativeURLs: false
+# # canonifyURLs: false
+# languageCode: en-us
+# title: "Leslie's Planet"
+# theme: ["PaperMod"]
+
+# params:
+#   author: "Leslie Wang"
+
+#   homeInfoParams:
+#     Title: "👋 Welcome to Leslie's Planet"
+#     Content: >
+#       👋 Hi, this is Xinglie. I’m documenting my notes in this blog since 2026😉.
+
+#   socialIcons:
+#     - name: github
+#       title: View Source on Github
+#       url: "https://github.com/wangerxiao001/"
+#     - name: instagram
+#       title: Follow on Instagram
+#       url: "https://www.instagram.com/"
+#     - name: X
+#       title: Share on X
+#       url: "https://x.com/"
+
+#   defaultTheme: auto
+#   ShowShareButtons: true
+#   ShowReadingTime: true
+#   displayFullLangName: true
+#   ShowPostNavLinks: true
+#   ShowBreadCrumbs: true
+#   ShowCodeCopyButtons: true
+#   ShowRssButtonInSectionTermList: true
+#   ShowAllPagesInArchive: true
+#   ShowPageNums: true
+#   ShowToc: true
+
+# menu:
+#   main:
+#     - name: Archive
+#       url: archives
+#       weight: 5
+#     - name: Search
+#       url: search/
+#       weight: 10
+#     - name: Tags
+#       url: tags/
+#       weight: 15
+
 baseURL: https://example.org/
 # 如果是 hugo.toml 或 config.toml
 # baseURL: "https://wangerxiao001.github.io/MyGugoPaper/"
