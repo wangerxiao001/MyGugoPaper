@@ -1,7 +1,7 @@
 ---
 date: '2026-02-02T08:18:35+08:00'
 draft: false
-title: 'Before I start.'
+title: '宋词：辛弃疾 丑奴儿'
 ---
 
 ## 醜奴兒·書博山道中壁
