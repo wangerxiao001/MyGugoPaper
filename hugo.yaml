@@ -56,6 +56,7 @@ title: "Leslie's Planet"
 theme: ["PaperMod"]
 
 params:
+  author: "Leslie Wang"
   homeInfoParams:
     Title: "👋 Welcome to Leslie's Planet"
     Content: >
