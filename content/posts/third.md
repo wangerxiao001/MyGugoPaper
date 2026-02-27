@@ -1,9 +1,9 @@
 ---
 date: '2026-02-26T08:05:22+08:00'
 draft: false
-title: "汉娜.阿伦特: 思考与平庸之恶"
+title: "汉娜.阿伦特: 无扶手的思考与平庸之恶"
 cover:
-    image: img/post3/hannah_arendt.jpg
+    image: img/post3/hannah_arendt2.jpg
     alt: 'Hannah Arendt'
     caption: 'Hannah Arendt'
 
