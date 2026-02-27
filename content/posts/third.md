@@ -17,11 +17,17 @@ categories: ["Reading", "Thinking"]
 
 ## 无扶手的思考
 
+<!-- 居中文本 -->
 <p align="center">
 <em>克劳迪奥：······死是件可怕的事情。<br>
 伊莎贝拉：羞耻的生命尤其可憎。<br>
-——莎士比亚，《一报还一报》</em>
+</em>
+<!-- 靠右文本 -->
+<span style="display:block; text-align:right;">
+<em>——莎士比亚，《一报还一报》</em></span>
 </p>
+
+汉娜·阿伦特
 
 ## 平庸之恶
 
