@@ -46,3 +46,10 @@ menu:
     - name: Tags
       url: tags/
       weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute: true
