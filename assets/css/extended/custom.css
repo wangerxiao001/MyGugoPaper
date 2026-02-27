@@ -21,15 +21,15 @@
 
 /* Shrink titles by ~2 levels */
 .post-title {
-  font-size: 1.5rem; /* ~24px (was 40px) */
+  font-size: 1.3rem; /* ~24px (was 40px) */
 }
 
 /* Content headings inside posts */
 .post-single .post-content h1 {
-  font-size: 1.5rem; /* ~24px (was 40px) */
+  font-size: 1.2rem; /* ~24px (was 40px) */
 }
 .post-single .post-content h2 {
-  font-size: 1.125rem; /* ~18px (was 32px) */
+  font-size: 1.1rem; /* ~18px (was 32px) */
 }
 .post-single .post-content h3 {
   font-size: 1rem; /* ~16px (was 24px) */
@@ -48,6 +48,6 @@
 .post-entry .entry-header h2,
 .archive-entry-title,
 .entry-hint-parent {
-  font-size: 1.25rem;
+  font-size: 1.15rem;
 }
 
